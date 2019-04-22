@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestVk</string>
+    <integer name="com_vk_sdk_AppId" translatable="false">6952402</integer>
+    <string name="btnText">Authorization</string>
+    <string name="titleList">List of first five friends:</string>
+    <string name="titleUser">Current User</string>
+    <string name="titleFhoto">User photo</string>
+    <string name="click">Friend selected</string>
+</resources>

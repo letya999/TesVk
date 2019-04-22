@@ -1,0 +1,7 @@
+<resources>
+    <string name="btnText">Авторизация</string>
+    <string name="titleList">Список первых пяти друзей:</string>
+    <string name="titleUser">Текущий пользователь</string>
+    <string name="titleFhoto">Фото пользователя</string>
+    <string name="click">Выбран друг</string>
+</resources>
