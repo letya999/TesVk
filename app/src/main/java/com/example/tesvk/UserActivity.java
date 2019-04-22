@@ -89,7 +89,6 @@ public class UserActivity extends AppCompatActivity {
                     JSONArray resp = response.json.getJSONArray("response");
                     JSONObject user = resp.getJSONObject(0);
                     String photo_url = user.getString("photo_200");
-                    Log.d("MyTag", photo_url);
                     Picasso.get().load(photo_url).into(img);
                     img.setVisibility(View.VISIBLE);
                 } catch (org.json.JSONException ex) {
